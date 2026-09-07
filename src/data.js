@@ -4,8 +4,8 @@ export const profile = {
   location: 'Chennai, TN',
   email: 'pjhansisreeja477@gmail.com',
   phone: '+91 8125414564',
-  linkedin: '#', // TODO: add your LinkedIn profile URL
-  github: '#', // TODO: add your GitHub profile URL
+  linkedin: 'https://www.linkedin.com/in/jhansi-sreeja-pallapothu-970190225/',
+  github: 'https://github.com/jhansipallapothu',
   tagline:
     'I build real-time embedded systems for automotive platforms — from RTOS integration on PowerPC MCUs to full-stack diagnostic tooling that keeps vehicles on the road.',
 }
