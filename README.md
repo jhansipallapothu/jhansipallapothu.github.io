@@ -1,4 +1,4 @@
-# jhansisreeja.github.io
+# jhansipallapothu.github.io
 
 Personal portfolio site for Jhansi Sreeja Pallapothu — Embedded Systems & Firmware Engineer.
 
